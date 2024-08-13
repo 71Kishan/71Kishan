@@ -18,26 +18,41 @@ I am a dedicated and highly skilled IT professional specializing in technical su
 
 ### 💼 Professional Experience
 
+- **IT Support Analyst**
+  - Managed access to organizational drives and portals, ensuring timely permissions for new and departing employees.
+  - Maintained a comprehensive and current employee database to uphold data integrity and compliance standards.
+  - Diagnosed and resolved technical issues via video call support, enhancing user satisfaction and system reliability.
+  - Contributed to the improvement of technical support processes and documentation, streamlining operational efficiency.
+  - Monitored and updated Notion pages across departments, facilitating effective communication and knowledge sharing.
+    
 - **IT Technical Support**
-  - Provided technical support for hardware and software issues.
-  - Assisted in troubleshooting network problems and ensuring system security.
-  - Collaborated with team members to improve support processes.
+  - Resolved 100+ complex technical issues, maintaining 99% system uptime and ensuring seamless client operations.
+  - Delivered remote IT support through various tools, troubleshooting 150+ software and hardware problems, reducing resolution time by 40%.
+  - Enhanced network performance by strategically planning and documenting procedures, boosting IT operations efficiency by 30%.
+  - Implemented secure network infrastructures, utilizing IPsec and other protocols, improving overall security by 25%.
+  - Provided comprehensive system optimization, integrating Oracle systems with cloud applications, resulting in a 20% increase in performance.
+
 
 - **Network Technician**
-  - Configured and maintained network devices, including routers and switches.
-  - Monitored network performance and implemented security measures.
-  - Supported end-users in resolving connectivity issues.
+  - Engineered robust network infrastructures, increasing connectivity by 50% and reducing downtime by 25%.
+  - Addressed system failures swiftly, performing maintenance and repairs on hardware, achieving a 95% network performance rate.
+  - Configured Internet connections and network setups, leading to a 20% improvement in overall network reliability.
+  - Documented network configurations, troubleshooting steps, and procedures, enhancing long-term system reliability by 30%.
+  - Optimized network component setups, supporting seamless production activities and reducing latency by 15%.
 
 - **IT Technician**
-  - Installed and configured computer hardware, software, systems, networks, printers, and scanners.
-  - Monitored and maintained computer systems and networks.
-  - Provided technical support across the company, resolving issues as they arose.
+  - Streamlined operations by implementing a new ticketing system, cutting response times by 35% and issue resolution times by 25%.
+  - Resolved 200+ IT issues promptly, providing hands-on support and boosting customer satisfaction by 20%.
+  - Conducted training sessions, enhancing end-user skills by 30% and overall system performance by 15%.
+  - Implemented diagnostic tests, identifying and resolving errors quickly, ensuring smooth IT system operations.
+  - Consulted on system upgrades, improving hardware and software performance, leading to a 25% increase in efficiency.
+
 
 ### 📚 Education
 
 - **St. Clair College**
   - **Program:** Computer Systems Technology - Networking
-  - **Year:** Graduated in 2023
+  - **Year:** Graduated in May, 2023
 
 <!--
 ### 🏆 Certifications
