@@ -19,11 +19,11 @@ I am a dedicated and highly skilled IT professional specializing in technical su
 ### 💼 Professional Experience
 
 - **IT Support Analyst**
-  - Managed access to organizational drives and portals, ensuring timely permissions for new and departing employees.
-  - Maintained a comprehensive and current employee database to uphold data integrity and compliance standards.
-  - Diagnosed and resolved technical issues via video call support, enhancing user satisfaction and system reliability.
-  - Contributed to the improvement of technical support processes and documentation, streamlining operational efficiency.
-  - Monitored and updated Notion pages across departments, facilitating effective communication and knowledge sharing.
+  - Manage access to organizational drives and portals, ensuring timely permissions for new and departing employees.
+  - Maintain a comprehensive and current employee database to uphold data integrity and compliance standards.
+  - Diagnose and resolve technical issues via video call support, enhancing user satisfaction and system reliability.
+  - Contribut to the improvement of technical support processes and documentation, streamlining operational efficiency.
+  - Monitor and update Notion pages across departments, facilitating effective communication and knowledge sharing.
     
 - **IT Technical Support**
   - Resolved 100+ complex technical issues, maintaining 99% system uptime and ensuring seamless client operations.
