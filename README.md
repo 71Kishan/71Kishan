@@ -24,13 +24,6 @@ I am a dedicated and highly skilled IT professional specializing in technical su
   - Diagnose and resolve technical issues via video call support, enhancing user satisfaction and system reliability.
   - Contribute to the improvement of technical support processes and documentation, streamlining operational efficiency.
   - Monitor and update Notion pages across departments, facilitating effective communication and knowledge sharing.
-    
-- **IT Technical Support**
-  - Resolved 100+ complex technical issues, maintaining 99% system uptime and ensuring seamless client operations.
-  - Delivered remote IT support through various tools, troubleshooting 150+ software and hardware problems, reducing resolution time by 40%.
-  - Enhanced network performance by strategically planning and documenting procedures, boosting IT operations efficiency by 30%.
-  - Implemented secure network infrastructures, utilizing IPsec and other protocols, improving overall security by 25%.
-  - Provided comprehensive system optimization, integrating Oracle systems with cloud applications, resulting in a 20% increase in performance.
 
 
 - **Network Technician**
@@ -40,7 +33,7 @@ I am a dedicated and highly skilled IT professional specializing in technical su
   - Documented network configurations, troubleshooting steps, and procedures, enhancing long-term system reliability by 30%.
   - Optimized network component setups, supporting seamless production activities and reducing latency by 15%.
 
-- **IT Technician**
+- **IT Technical Support**
   - Streamlined operations by implementing a new ticketing system, cutting response times by 35% and issue resolution times by 25%.
   - Resolved 200+ IT issues promptly, providing hands-on support and boosting customer satisfaction by 20%.
   - Conducted training sessions, enhancing end-user skills by 30% and overall system performance by 15%.
