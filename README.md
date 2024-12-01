@@ -18,12 +18,20 @@ I am a dedicated and highly skilled IT professional specializing in technical su
 
 ### 💼 Professional Experience
 
+- **Technical Support Representative**
+  - Provide expert assistance to accounting software users, resolving technical inquiries and enhancing overall user satisfaction.
+  - Troubleshoot hardware and software issues, implementing effective solutions that improve system performance and reliability.
+  - Document customer interactions and resolutions in a centralized knowledge base, contributing to improved support processes and information sharing.
+  - Collaborate with cross-functional teams to identify recurring issues, driving initiatives that enhance product usability and customer experience.
+  - Utilize customer feedback to suggest enhancements to technical products, fostering a culture of innovation and responsiveness within the organization.
+
+
 - **IT Support Analyst**
-  - Manage access to organizational drives and portals, ensuring timely permissions for new and departing employees.
-  - Maintain a comprehensive and current employee database to uphold data integrity and compliance standards.
-  - Diagnose and resolve technical issues via video call support, enhancing user satisfaction and system reliability.
-  - Contribute to the improvement of technical support processes and documentation, streamlining operational efficiency.
-  - Monitor and update Notion pages across departments, facilitating effective communication and knowledge sharing.
+  - Managed access to organizational drives and portals, ensuring timely permissions for new and departing employees.
+  - Maintained a comprehensive and current employee database to uphold data integrity and compliance standards.
+  - Diagnosed and resolved technical issues via video call support, enhancing user satisfaction and system reliability.
+  - Contributed to improving technical support processes and documentation, streamlining operational efficiency.
+  - Monitored and updated Notion pages across departments, facilitating effective communication and knowledge sharing.
 
 
 - **Network Technician**
