@@ -2,9 +2,9 @@
 
 # Welcome to My GitHub Profile!
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=711Krunal&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/711Krunal?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/711Krunal?affiliations=OWNER&style=social)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=71Kishan&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/71Kishan?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/71Kishan?affiliations=OWNER&style=social)
 
 ## Hi there! I'm Kishan Panchal 👋
 
@@ -13,7 +13,7 @@ I am a dedicated and highly skilled IT professional specializing in technical su
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kspanchal/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/711Krunal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/71Kishan)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15199921888)
 
 ### 💼 Professional Experience
@@ -74,12 +74,12 @@ I am a dedicated and highly skilled IT professional specializing in technical su
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=711Krunal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=711Krunal&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=71Kishan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=71Kishan&layout=compact&theme=radical)
 
 ### 🏅 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=711Krunal&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=71Kishan&theme=radical)
 
 ### 📫 Contact Me
 
@@ -90,5 +90,5 @@ Feel free to reach out to me through the following platforms:
 
 ---
 
-Thank you for visiting my profile! I look forward to connecting with you.
+Thank you for visiting my profile! I'm looking forward to talking with you.
 
